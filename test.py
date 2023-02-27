@@ -3,7 +3,7 @@ class demo:
     def __init__(self) -> None:
          pass
 
-    def show(self):
+    def demo(self):
         print("demo")
         return
     
