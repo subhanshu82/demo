@@ -5,5 +5,4 @@ class demo:
 
     def sun(self):
         print("demo")
-        print("demo2")
         return
