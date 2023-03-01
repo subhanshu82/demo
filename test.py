@@ -10,3 +10,7 @@ class demo:
     def train(self):
         print("train")
         return
+
+    def min(self):
+        print("min")
+        return    
