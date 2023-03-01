@@ -14,3 +14,7 @@ class demo:
     def min(self):
         print("min")
         return    
+
+    def max(self):
+        print("max")
+        return    
