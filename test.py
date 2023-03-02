@@ -18,3 +18,7 @@ class demo:
     def max(self):
         print("max")
         return    
+    
+    def merg(self):
+        print("merg")
+        return
