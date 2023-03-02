@@ -22,3 +22,7 @@ class demo:
     def merg(self):
         print("merg")
         return
+    
+    def rebase(self):
+        print("rebase")
+        return
