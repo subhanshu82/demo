@@ -26,3 +26,8 @@ class demo:
     def rebase(self):
         print("rebase")
         return
+    
+     
+    def rebase1(self):
+        print("rebase1")
+        return
